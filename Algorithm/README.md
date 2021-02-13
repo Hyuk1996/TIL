@@ -12,3 +12,5 @@ Chapter03 [코딩과 디버깅](https://github.com/Hyuk1996/TIL/tree/main/Algori
 Chapter04 [알고리즘의 시간 복잡도](https://github.com/Hyuk1996/TIL/tree/main/Algorithm/Chapter04)
 
 Chapter06 [무식하게 풀기](https://github.com/Hyuk1996/TIL/tree/main/Algorithm/Chapter06)
+
+Chapter07 [분할 정복](https://github.com/Hyuk1996/TIL/tree/main/Algorithm/Chapter07)
